@@ -1,3 +1,3 @@
-import time
+import streamlit as st
 
-print("Umair")
+st.title("Hello")
